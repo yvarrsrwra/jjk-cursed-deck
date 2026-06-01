@@ -1,0 +1,17 @@
+{
+    "id": "JJKCursedDeck",
+    "name": "JJK: Cursed Deck",
+    "display_name": "JJK: Cursed Deck",
+    "author": ["JJK_BalatroMod"],
+    "description": "20 Jokers, 5 Decks, 6 Boss Blinds. Cursed Energy system. Gojo, Sukuna and more!",
+    "prefix": "jjk",
+    "main_file": "JJK_Mod.lua",
+    "priority": 0,
+    "badge_colour": "1a0a2e",
+    "badge_text_colour": "c4b5fd",
+    "version": "1.0.0",
+    "dependencies": [
+        "Steamodded (>=1.0.0)",
+        "Lovely (>=0.6)"
+    ]
+}
